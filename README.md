@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 #### Codewars stats
 
-![image](https://www.codewars.com/users/Kirill000/badges/small?theme=light)
+![image](https://www.codewars.com/users/gruninkn/badges/small?theme=light)
 
 <!--
 <details>
