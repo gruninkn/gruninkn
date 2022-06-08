@@ -4,7 +4,7 @@ I'm Kirill Grunin an iOS Developer.
 
 📫 Reach me out!
 
-[![Mail Badge](https://img.shields.io/static/v1?&label=&message=gruninkn&style=flat&labelColor=c0392b&logo=gmail&logoColor=white&color=c0392b)](mailto:gruninkn@yandex.ru) [![Mail Badge](https://img.shields.io/static/v1?&label=&message=@gruninkn&style=flat&labelColor=0e76a8&logo=telegram&logoColor=white&color=0e76a8)](https://telegram.me/gruninkn)
+[![Mail Badge](https://img.shields.io/static/v1?&label=&message=mail&style=flat&labelColor=c0392b&logo=gmail&logoColor=white&color=c0392b)](mailto:gruninkn@yandex.ru) [![Mail Badge](https://img.shields.io/static/v1?&label=&message=telegram&style=flat&labelColor=0e76a8&logo=telegram&logoColor=white&color=0e76a8)](https://telegram.me/gruninkn)
 
 
 <!--
