@@ -55,7 +55,13 @@ Here are some ideas to get you started:
 
 #### Github Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=gruninkn&count_private=true&theme=tokyonight)
+<a href="https://github.com/gruninkn#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=gruninkn&show_icons=true&theme=swift#gh-light-mode-only" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/gruninkn#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=gruninkn&show_icons=true&theme=codeSTACKr#gh-dark-mode-only" alt="My GitHub Stats" />
+</a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/gruninkn/gruninkn/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/gruninkn/gruninkn/output/github-contribution-grid-snake.svg#gh-light-mode-only)
