@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gruninkn&count_private=true&theme=tokyonight)
 
-![Snake animation](https://github.com/gruninkn/gruninkn/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
 <!--
 <a>
