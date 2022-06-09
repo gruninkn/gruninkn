@@ -56,11 +56,14 @@ Here are some ideas to get you started:
 #### Github Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=gruninkn&count_private=true&theme=tokyonight)
+
+![Snake animation](https://github.com/gruninkn/gruninkn/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 <a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gruninkn&layout=compact&hide_border=true" />
 </a>
--->
+
 
 </details>
+-->
