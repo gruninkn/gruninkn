@@ -38,7 +38,11 @@ Here are some ideas to get you started:
 
 #### Profile Visits 
 
+<!-- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=grunikn.gruninkn)
+-->
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=grunikn.gruninkn&color=55acb7&style=for-the-badge&logo=Github)
 
 #### Codewars Stats
 
