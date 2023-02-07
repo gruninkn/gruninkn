@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![Git Badge](https://img.shields.io/static/v1?&label=&message=Git&style=for-the-badge&labelColor=F05032&logo=Git&logoColor=white&color=F05032)
 ![Github Badge](https://img.shields.io/static/v1?&label=&message=Github&style=for-the-badge&labelColor=181717&logo=github&logoColor=white&color=181717)
 
+<!--
 #### Profile Visits 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=grunikn.gruninkn&color=55acb7&style=for-the-badge&logo=Github)
@@ -43,7 +44,7 @@ Here are some ideas to get you started:
 #### Codewars Stats
 
 ![image](https://www.codewars.com/users/gruninkn/badges/small?theme=light)
-
+-->
 <!--
 <details>
 <summary>
